@@ -4,3 +4,7 @@
 - 📫 How to reach me: joakimkartveit@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/joakim-taule-kartveit-7633aa84/)
+
+
+
+![MikAoJk's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikAoJk)
