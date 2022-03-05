@@ -1,5 +1,5 @@
 ### :wave: Hello, I'm Joakim Taule Kartveit
-- :computer: I’m currently working as a backend developer at [NAV](https://nav.no). I´m based in Norway, Kristiansand.
+- :computer: I’m working as a developer at [NAV](https://nav.no). I´m based in Norway, Kristiansand.
 - :soccer: i like to play soccer sometimes
 - 📫 How to reach me: joakimkartveit@gmail.com
 
