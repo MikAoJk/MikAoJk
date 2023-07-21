@@ -1,5 +1,5 @@
 ### :wave: Hello, I'm Joakim Taule Kartveit
-- father of one :baby:
+- :baby: father of one
 - :computer: I’m working as a developer at [NAV](https://nav.no). I´m based in Norway, Kristiansand.
 - :soccer: i like to play soccer sometimes
 - :penguin: Current OS **Linux**
