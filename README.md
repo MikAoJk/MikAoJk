@@ -1,8 +1,8 @@
 ### :wave: Hello, I'm Joakim Taule Kartveit
 - 👨 Husband
 - :baby: father
-- :computer: I’m working as a developer at [NAV](https://nav.no). I´m based in Norway, Kristiansand.
-- :soccer: i like to play soccer sometimes
+- :computer: Working as a developer at [NAV](https://nav.no). Based in Norway, Kristiansand.
+- :soccer: Like to play soccer sometimes
 - :penguin: Current OS **Linux**
 - :heart: Open Source Software
 - 📫 How to reach me: joakimkartveit@gmail.com
