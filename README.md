@@ -7,7 +7,9 @@
 - :penguin: Current OS **Linux**
 - :heart: Open Source Software
 - ⚡ Fun fact: I mostly listen to heavy metal :musical_note:
-- 📫 How to reach me: joakimkartveit@gmail.com or 
+- 📫 How to reach me:
+  - **Email:** joakimkartveit@gmail.com
+  - **LinkedIn:** 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/joakim-taule-kartveit-7633aa84/)
 
 ## GitHub Stats
