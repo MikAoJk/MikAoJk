@@ -12,6 +12,6 @@
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MikAoJk&show_icons=true&theme=radical)
-### Top commiters norway stat
+### Top commiters norway rank
 [![committers.top badge](https://user-badge.committers.top/norway/MikAoJk.svg)](
 https://user-badge.committers.top/norway/MikAoJk)
