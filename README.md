@@ -2,8 +2,8 @@
 - 👨 Husband
 - :baby: father
 - :computer: Working as a developer at [NAV](https://nav.no) 
-- :house_with_garden: Based in Norway, Kristiansand
-- :soccer: Like to play soccer sometimes
+- :house_with_garden: Based in Kristiansand, Norway
+- :soccer: Like to play soccer
 - :penguin: Current OS **Linux**
 - :heart: Open Source Software
 - ⚡ Fun fact: I mostly listen to heavy metal :musical_note:
