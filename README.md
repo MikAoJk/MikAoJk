@@ -2,7 +2,7 @@
 - 👨 Husband
 - :baby: father
 - :computer: Working as a developer at [Nav](https://nav.no) 
-- :house_with_garden: Based in Kristiansand, Norway
+- :house_with_garden: Based in Kristiansand, Norway🇳🇴
 - :soccer: Like to play soccer
 - :penguin: Current OS **Linux**
 - :heart: Open Source Software
