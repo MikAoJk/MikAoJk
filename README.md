@@ -1,4 +1,4 @@
-### :wave: Hello, I'm Joakim Taule Kartveit
+### :wave: Hello
 ```kotlin
 val MikAoJk = developer {
     about {
