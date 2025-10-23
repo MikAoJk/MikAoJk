@@ -1,4 +1,14 @@
 ### :wave: Hello, I'm Joakim Taule Kartveit
+```kotlin
+val MikAoJk = developer {
+    about {
+        name = "Joakim Taule Kartveit"
+        company = Nav
+        role = developer
+    }
+}
+```
+
 - 👨 Husband
 - :baby: father
 - :computer: Working as a developer at [Nav](https://nav.no) 
