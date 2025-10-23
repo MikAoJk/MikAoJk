@@ -3,8 +3,8 @@
 val MikAoJk = developer {
     about {
         name = "Joakim Taule Kartveit"
-        company = Nav
-        role = developer
+        company = "Nav"
+        role = "developer:
     }
 }
 ```
