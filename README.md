@@ -4,11 +4,11 @@ val MikAoJk = developer {
     about {
         name = "Joakim Taule Kartveit"
         company = "Nav"
-        role = "developer"
+        role = "Developer"
         countryOfResidence ="Norway" 
         home = "Kristiansand"
         numberOfChildren = 2
-        civilStatus = "married"
+        civilStatus = "Married"
         contact = "joakimkartveit@gmail.com"
     }
 }
